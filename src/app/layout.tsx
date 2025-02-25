@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './styles.css';
 
 export const metadata: Metadata = {
-  title: 'Polotno NextJS',
+  title: 'Positron Create',
   description: 'Design editor inside your app',
 };
 
